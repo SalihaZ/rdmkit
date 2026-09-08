@@ -20,7 +20,7 @@ national_resources:
     how_to_access:
     instance_of: dmproadmap
     related_pages:
-      tool_assembly: [ifb]
+      Tool_assembly: [ifb]
       your_role: [researcher, data_steward]
       your_tasks: [dmp]
     url: https://cat.opidor.fr
@@ -29,7 +29,7 @@ national_resources:
     how_to_access:
     instance_of: 
     related_pages:
-      tool_assembly: [ifb]
+      Tool_assembly: [ifb]
       your_role: [researcher, data_steward, data storage]
       your_tasks: []
     url: https://crusoe.ouvrirlascience.fr/en/application-en/
@@ -47,7 +47,7 @@ national_resources:
     how_to_access:
     instance_of: data-stewardship-wizard
     related_pages:
-      tool_assembly: [ifb]
+      Tool_assembly: [ifb]
       your_role: [researcher, data_steward]
       your_tasks: [dmp]
     url: https://dsw.france-bioinformatique.fr/
@@ -56,7 +56,7 @@ national_resources:
     how_to_access:
     instance_of: recherche-data-gouv
     related_pages:
-      tool_assembly: [ifb]
+      Tool_assembly: [ifb]
       your_role: [researcher, data_steward, data storage, data management]
       your_tasks: []
     url: https://entrepot.recherche.data.gouv.fr/
@@ -65,7 +65,7 @@ national_resources:
     how_to_access:
     instance_of: 
     related_pages:
-      tool_assembly: [ifb]
+      Tool_assembly: [ifb]
       your_role: [researcher, data_steward]
       your_tasks: []
     registry:
@@ -76,7 +76,7 @@ national_resources:
     how_to_access:
     instance_of: galaxy
     related_pages:
-      tool_assembly: [ifb]
+      Tool_assembly: [ifb]
       your_role: [researcher, data_steward, metadata, brokering]
       your_tasks: []
     url: https://usegalaxy.fr/
@@ -85,7 +85,7 @@ national_resources:
     how_to_access:
     instance_of:
     related_pages:
-      tool_assembly: [ifb]
+      Tool_assembly: [ifb]
       your_role: [researcher, data_steward]
       your_tasks: []
     url: https://hal.science/
@@ -94,7 +94,7 @@ national_resources:
     how_to_access:
     instance_of:
     related_pages:
-      tool_assembly: 
+      Tool_assembly: 
       your_role: [researcher, data_steward]
       your_tasks: []
     url: https://nncr-clusters.france-bioinformatique.fr/
@@ -103,7 +103,7 @@ national_resources:
     how_to_access: 
     instance_of:
     related_pages:
-      tool_assembly: [ifb]
+      Tool_assembly: [ifb]
       your_role: [researcher, data_steward]
       your_tasks: []
     url: https://madbot.france-bioinformatique.fr/
