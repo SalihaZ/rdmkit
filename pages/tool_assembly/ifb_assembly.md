@@ -24,6 +24,17 @@ training:
 
 ## What is the IFB data management tool assembly?
 
+ELIXIR-FR / IFB develops an infrastructure in order to support Life science data management all along the data life cycle. This infrastructure benefits from and contributes to both the ELIXIR’s RDM community and the French National ecosystems supporting data management.
+
+## Who can use the IFB data management tool assembly?
+
+The ELIXIR-FR / IFB infrastructure for Life science data is accessible to researchers in France and their collaborators. Eligible researchers can apply through the IFB help desk page and get support through the dedicated help pages. Depending on the resources, fees may apply. It is therefore advisable to contact ELIXIR-FR / IFB during the planning phase of the project.
+
+
+
+
+## What is the IFB data management tool assembly?
+
 The [IFB](https://www.france-bioinformatique.fr) is the French national Bioinformatics Infrastructure that supports research projects in Life Sciences by provisioning a bioinformatics environment, which consists of IT infrastructure (such as storage and computing resources), software and training, distributed across the country. 
 The IFB federates around 20 bioinformatics platforms which make physical, operational and human resources available to researchers in a synergistic and efficient way. Each platform brings its own IT infrastructure and bioinformatics expertise to create a better support network, distributed over the country, for Life Sciences research activities. 
 
@@ -43,7 +54,7 @@ The way you can access the IFB depends on the type of resources (for instance, c
 
 ### Data management planning
 
-IFB recommends [DMP-OPIDoR](https://dmp.opidor.fr) or [DSW](https://dsw.france-bioinformatique.fr) as tools for writing a Data Management Plan (DMP).
+IFB recommends [DMP-OPIDoR](https://dmp.opidor.fr) or [data-stewardship-wizard](https://dsw.france-bioinformatique.fr) as tools for writing a Data Management Plan (DMP).
 
 - DMP-OPIDoR is hosted and maintained at Inist-CNRS and is tailored to meet the needs of many French academic institutes. You will find many DMP templates, in French and/or English, created by funders and academic institutes. A dedicated team offers training and support for DMP templates and DMPs. They can be reached [via this contact form](https://dmp.opidor.fr/contact-us).
 The machine actionable version of DMP-OPIDoR allows the production of structured standardised DMP content. It enables the integration of information from funding agencies such as the French National Agency (ANR), and also integration and interactions with computing infrastructures provided by IFB and Genci, the organisation in charge of the three supercomputing centres in France. 
@@ -85,5 +96,5 @@ You can also browse [cat-OPIDoR](https://cat.opidor.fr/index.php/Cat_OPIDoR,_wik
 
 ### Compliance monitoring & measurement
 
-IFB infrastructure promotes the implementation of the FAIR principles. To this end, IFB provides and encourages the use of the [FAIR-Checker](https://github.com/IFB-ElixirFr/fair-checker), a web interface aimed at monitoring the level of FAIRification of data resources. This tool uses the FAIRMetrics APIs to provide a global assessment and recommendations. It also uses semantic technologies to help users in annotating their resources with high-quality metadata.
+IFB infrastructure promotes the implementation of the FAIR principles. To this end, IFB provides and encourages the use of the [FAIR-Checker](https://fair-checker.france-bioinformatique.fr/), a web interface aimed at monitoring the level of FAIRification of data resources. This tool uses the FAIRMetrics APIs to provide a global assessment and recommendations. It also uses semantic technologies to help users in annotating their resources with high-quality metadata.
 
