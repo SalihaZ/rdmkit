@@ -86,4 +86,3 @@ You can also browse [cat-OPIDoR](https://cat.opidor.fr/index.php/Cat_OPIDoR,_wik
 ### Compliance monitoring & measurement
 
 IFB infrastructure promotes the implementation of the FAIR principles. To this end, IFB provides and encourages the use of the [FAIR-Checker](https://fair-checker.france-bioinformatique.fr/), a web interface aimed at monitoring the level of FAIRification of data resources. This tool uses the FAIRMetrics APIs to provide a global assessment and recommendations. It also uses semantic technologies to help users in annotating their resources with high-quality metadata.
-
