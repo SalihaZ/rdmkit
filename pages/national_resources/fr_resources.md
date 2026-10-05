@@ -29,7 +29,7 @@ national_resources:
     how_to_access:
     instance_of: 
     related_pages:
-      Tool_assembly: [ifb]
+      Tool_assembly: []
       your_role: [researcher, data_steward, data storage]
       your_tasks: []
     url: https://crusoe.ouvrirlascience.fr/en/application-en/
@@ -107,6 +107,15 @@ national_resources:
       your_role: [researcher, data_steward]
       your_tasks: []
     url: https://madbot.france-bioinformatique.fr/
+  - name: Biosphere
+    description: 
+    how_to_access: 
+    instance_of:
+    related_pages:
+      Tool_assembly: [ifb]
+      your_role: [researcher, data_steward]
+      your_tasks: []
+    url: https://biosphere.france-bioinformatique.fr/
 ---
 
 
