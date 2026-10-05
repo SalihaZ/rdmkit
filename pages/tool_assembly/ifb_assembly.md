@@ -75,7 +75,7 @@ IFB infrastructure can also help you with bioinformatics analysis of your data. 
 
 ### Data sharing and publishing
 It is good practice to publish your data on repositories. IFB encourages researchers to browse the list of {% tool "elixir-deposition-databases-for-biomolecular-data" %} and the {% tool "elixir-core-data-resources" %} to identify the appropriate repository for their data type. Beyond generalist deposition databases,
-IFB members contribute to domain-specific thematic repositories hosted in France: - {% tool "imgt" %}, the international ImMunoGeneTics information system, is recognised as an ELIXIR Core Data Resource, IMGT provides standardised nomenclature, sequence databases, tools and knowledge bases for immunogenetics and immunoinformatics. - {% tool "orphadata" %} delivers high-quality curated datasets on rare diseases, derived from the Orphanet knowledge base maintained by Inserm.
+IFB members contribute to domain-specific thematic repositories hosted in France: - {% tool "imgt" %}, the international ImMunoGeneTics information system, is recognised as an ELIXIR Core Data Resource, IMGT provides standardised nomenclature, sequence databases, tools and knowledge bases for immunogenetics and immunoinformatics. - {% tool "orphadata-science" %} delivers high-quality curated datasets on rare diseases, derived from the Orphanet knowledge base maintained by Inserm.
 For the semantic annotation of data, software and services, IFB recommends the use of {% tool "edam" %}, a comprehensive ontology of bioinformatics operations, data types, formats and topics. 
 To ensure that published data are findable and citable, IFB promotes the attribution of persistent identifiers through {% tool "datacite" %}.
 

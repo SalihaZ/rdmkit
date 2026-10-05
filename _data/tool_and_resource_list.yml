@@ -3594,7 +3594,7 @@
   id: orphadata-science
   name: Orphadata Science
   url: https://sciences.orphadata.com/
-- description: IMGT is the global reference information system for immunogenetics and immunoinformatics, specializing in the genes and proteins of the immune system
+- description: IMGT is the global reference information system for immunogenetics and immunoinformatics, specializing in the genes and proteins of the immune system.
   id: imgt
   name: International ImMunoGeneTics information system
   url: https://www.imgt.org/
