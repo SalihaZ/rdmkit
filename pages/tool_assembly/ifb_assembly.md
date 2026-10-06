@@ -12,8 +12,8 @@ training:
   - name: IFB Search query in TeSS
     registry: TeSS
     url: https://tess.elixir-europe.org/search?q=IFB
-  - name: IFB training resources
-    url: https://moodle.france-bioinformatique.fr/
+  - name: FAIR principles in bioinformatics and data management
+    url: https://moodle.france-bioinformatique.fr/course/index.php?categoryid=2&lang=fr
   - name: Data management training at the IFB
     url: https://www.france-bioinformatique.fr/en/training/
   - name: Doranum, the french national resources to support the scientific community for data management and sharing
@@ -50,7 +50,7 @@ DMP-Opidor is hosted and maintained at INIST-CNRS and tailored to the needs of t
 
 IFB facilitates data and [metadata collection](https://rdmkit.elixir-europe.org/collecting) through the [madbot](https://madbot.france-bioinformatique.fr/) software that stores metadata along with links to the data in their storage place during the project or through instances of Seek. Storage capacities are provided by IFB’s National Network of Computing Resources [NNCR](https://nncr-clusters.france-bioinformatique.fr/). 
 
-To support data collection along with standard metadata, IFB is providing {% tool "fairdom-seek" %} [SEEK](https://seek4science.org/) instance is available at [GenOuest](https://research-sharing.cesgo.org). 
+To support data collection along with standard metadata, IFB is providing [{% tool "fairdom-seek" %}](https://seek4science.org/) instance is available at [GenOuest](https://research-sharing.cesgo.org). 
 
 ### Data processing and analysis 
 
