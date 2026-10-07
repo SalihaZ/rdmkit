@@ -1,4 +1,4 @@
-# View RDMkit locally (IFB repository)
+# View RDMkit locally
 
 To preview the *Tool assembly: IFB* page before it is published on [RDMkit](https://rdmkit.elixir-europe.org).
 
