@@ -69,7 +69,8 @@ For bioimage analysis, researchers can explore {% tool "biii" %}, the BioImage I
 ### Data sharing and publishing
 It is good practice to publish your data in repositories. IFB encourages researchers to browse the list of {% tool "elixir-deposition-databases-for-biomolecular-data" %} and the {% tool "elixir-core-data-resources" %} to identify the appropriate repository for their data type. In addition, a list of [trusted repositories](https://recherche.data.gouv.fr/en/repositories) is maintained by Recherche Data Gouv.
 
-IFB members contribute to domain-specific thematic repositories hosted in France: - {% tool "imgt" %}, - {% tool "orphadata-science" %} 
+IFB members contribute to domain-specific thematic repositories hosted in France: - {% tool "imgt" %} and - {% tool "orphadata-science" %}.
+
 For the semantic annotation of data, software and services, IFB recommends the use of {% tool "edam" %}, a comprehensive ontology of bioinformatics operations, data types, formats and topics. 
 To ensure that published data are findable and citable, IFB promotes the attribution of persistent identifiers through {% tool "datacite" %}.
 
